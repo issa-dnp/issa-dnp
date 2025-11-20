@@ -11,12 +11,6 @@ Passionné par la transformation de données brutes en insights actionnables. J'
 *   **Outils :** Jupyter Notebooks, Git, Excel
 *   **Base de données :** Extraction, Nettoyage, Modélisation
 
-### 🚀 Projets Récents
-
-*   **[Nom du Projet 1]** : Analyse des ventes e-commerce pour identifier les tendances saisonnières (Python, Pandas).
-*   **[Nom du Projet 2]** : Dashboard interactif de suivi KPI marketing (SQL, Power BI).
-*   **[Nom du Projet 3]** : Segmentation client RFM pour une campagne ciblée (Clustering, Scikit-learn).
-
 ### 📫 Me Contacter
 
 *   [LinkedIn](https://www.linkedin.com/in/diop-issa))
