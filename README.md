@@ -19,9 +19,9 @@ Passionné par la transformation de données brutes en insights actionnables. J'
 
 ### 📫 Me Contacter
 
-*   [LinkedIn](https://www.linkedin.com/in/ton-profil)
-*   [Portfolio Web](https://ton-site-web.com) (si tu en as un)
-*   Email : ton.email@example.com
+*   [LinkedIn](https://www.linkedin.com/in/diop-issa))
+*   [Portfolio Web](https://diopissa.fr)
+*   Email : issadnp.pro@gmail.com
 
 ---
 ⭐️ *N'hésitez pas à explorer mes repositories pour voir mon code en action !*
